@@ -1,0 +1,22 @@
+PODS:
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - JWTDecode (2.5.0)
+
+DEPENDENCIES:
+  - Charts
+  - JWTDecode (~> 2.4)
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - JWTDecode
+
+SPEC CHECKSUMS:
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  JWTDecode: d4c176a28a29f7e6f9abf5c90ad3002f69b98c7c
+
+PODFILE CHECKSUM: 451f43eddf35d0005ccd2f6d62e9befaa6cb2d01
+
+COCOAPODS: 1.9.3
